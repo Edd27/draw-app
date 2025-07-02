@@ -1,5 +1,0 @@
-services:
-  tldraw-ws:
-    image: tldraw/tldraw-ws:latest
-    ports:
-      - 1234:1234
