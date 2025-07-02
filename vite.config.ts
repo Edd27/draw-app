@@ -9,6 +9,7 @@ export default defineConfig({
   preview: {
     port: 4173,
     host: true,
+    allowedHosts: ["edraw.edgarbenavides.dev", "localhost"],
   },
   resolve: {
     alias: {
